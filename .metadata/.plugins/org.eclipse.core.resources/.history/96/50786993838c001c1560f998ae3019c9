@@ -1,0 +1,21 @@
+/bin/
+# Compiled class file
+*.class
+
+#settings folder
+.settings
+
+# Log file
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
