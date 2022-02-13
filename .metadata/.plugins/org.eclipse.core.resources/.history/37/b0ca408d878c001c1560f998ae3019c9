@@ -5,7 +5,6 @@ public class Example {
 		// TODO Auto-generated method stub
 		System.out.println("Test Git Hub");
 		System.out.println("ABC");
-		System.out.println("XYZ");
 	}
 
 }
